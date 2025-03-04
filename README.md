@@ -38,6 +38,18 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<div align="center">
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+</div>
+
 
 </div>
 
@@ -48,29 +60,12 @@ Here are some ideas to get you started:
 | Project | Description | Tech Used | Demo |
 |---------|-------------|-----------|------|
 | [Retail_store](link) | elasticSearch,product recomendations | Python, Elasticsearch | [Live Demo](link) |
-| [Project 2](link) | E-commerce platform | React, Node.js | [Live Demo](link) |
-| [Project 3](link) | Data visualization tool | D3.js, TypeScript | [Live Demo](link) |
+| [Smart-store](link) | E-commerce platform | React, Node.js | [Live Demo](link) |
+| [Playing Games Using OPENCV](link) | Data visualization tool | Python, OpenCV | [Live Demo](link) |
 
 </div>
 
-## 🎮 GitHub Contribution Graph
 
-<div align="center">
-  
-![Snake Game Contribution Graph](https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg)
 
-</div>
 
-## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Microservices](https://yourblog.com/post1)
-- [Mastering React Hooks](https://yourblog.com/post2)
-- [DevOps Best Practices](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&style=flat-square&color=blueviolet)
-
-</div>
