@@ -57,11 +57,11 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-| Project | Description | Tech Used | Demo |
-|---------|-------------|-----------|------|
-| [Retail_store](link) | elasticSearch,product recomendations | Python, Elasticsearch | [Live Demo](link) |
-| [Smart-store](link) | E-commerce platform | React, Node.js | [Live Demo](link) |
-| [Playing Games Using OPENCV](link) | Data visualization tool | Python, OpenCV | [Live Demo](link) |
+| Project | Description | Tech Used |
+|---------|-------------|-----------|
+| [Retail_store](link) | elasticSearch,product recomendations | Python, Elasticsearch |
+| [Smart-store](link) | E-commerce platform | React, Node.js |
+| [Playing Games Using OPENCV](link) | Data visualization tool | Python, OpenCV | 
 
 </div>
 
