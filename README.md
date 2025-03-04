@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 
 | Project | Description | Tech Used |
 |---------|-------------|-----------|
-| [Retail_store](link) | elasticSearch,product recomendations | Python, Elasticsearch |
-| [Smart-store](link) | E-commerce platform | React, Node.js |
-| [Playing Games Using OPENCV](link) | Data visualization tool | Python, OpenCV | 
+| [Retail_store](link) | ElasticSearch, Product recomendations | Python, Elasticsearch |
+| [Smart-store](link) | E-commerce Platform | React, Node.js |
+| [Playing Games Using OPENCV](link) | Gaming Tool Using OpenCV| Python, OpenCV | 
 
 </div>
 
