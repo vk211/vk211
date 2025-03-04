@@ -1,4 +1,10 @@
 ## Hi there 👋
+```console
+$ cat /etc/profile.txt
+Hi, I'm Vijay ! 
+I'm a Developer, lifelong-learner, and writer.
+Always curious about backend, frontend, developer tooling, compilers, and programming languages.
+```
 
 <!--
 **vk211/vk211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
