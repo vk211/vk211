@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 <!-- Dynamic Header with Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=30&duration=4000&color=38F752&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+[Vijay+K];Welcome+to+My+GitHub+Profile!;A+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=30&duration=4000&color=38F752&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Vijay+K;Welcome+to+My+GitHub+Profile!;A+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
 <!-- Profile Banner -->
 <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/assets/banner.gif" alt="Profile Banner" width="800"/>
