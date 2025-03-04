@@ -2,7 +2,7 @@
 ```console
 $ cat /etc/profile.txt
 Hi, I'm Vijay ! 
-I'm a Developer, lifelong-learner, and writer.
+I'm a Software Engineerand a lifelong-learner.
 Always curious about backend, frontend, developer tooling, compilers, and programming languages.
 ```
 
