@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 | Project | Description | Tech Used |
 |---------|-------------|-----------|
 | [Retail_store](link) | ElasticSearch, Product recomendations | Python, Elasticsearch |
-| [Smart-store](link) | E-commerce Platform | React, Node.js |
+| [Smart-store](https://github.com/vk211/smart-store) | E-commerce Platform | React, Node.js |
 | [Playing Games Using OPENCV](link) | Gaming Tool Using OpenCV| Python, OpenCV | 
 
 </div>
