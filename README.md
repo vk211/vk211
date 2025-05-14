@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 |---------|-------------|-----------|
 | [Retail_store](https://github.com/vk211/Retail_store) | ElasticSearch, Product recomendations | Python, Elasticsearch |
 | [Smart-store](https://github.com/vk211/smart-store) | E-commerce Platform | React, Node.js |
-| [Playing Games Using OPENCV]([link](https://github.com/vk211/playing-video-games-using-openCv)) | Gaming Tool Using OpenCV| Python, OpenCV | 
+| [Playing Games Using OPENCV]((https://github.com/vk211/playing-video-games-using-openCv)) | Gaming Tool Using OpenCV| Python, OpenCV | 
 
 </div>
 
